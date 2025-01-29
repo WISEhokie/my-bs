@@ -1,5 +1,5 @@
-my-testing-div {
-  color: blue;
+.my-testing-div {
+  color: blue !important;
   font-weight: bold;
   border: 1px solid black;
 }
