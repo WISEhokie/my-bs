@@ -123,6 +123,13 @@
   --bs-form-valid-border-color: #198754;
   --bs-form-invalid-color: #dc3545;
   --bs-form-invalid-border-color: #dc3545;
+  --vt-maroon:rgb(134, 31, 65);
+  --vt-burntOrange:rgb(229, 117, 31);
+  --vt-hokieStone:rgb(117, 120, 123);
+  --vt-white:rgb(255, 255, 255);
+  --vt-teal:rgb(80, 133, 144);
+  --vt-smoke:rgb(229, 225, 230);
+  --vt-impactOrange:rgb(202, 79, 0);
 }
 
 [data-bs-theme=dark] {
